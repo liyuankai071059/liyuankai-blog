@@ -9,7 +9,7 @@
 - Bulleted
 - List
 # 服务发现注册
-
+Nacos注册中心
 # 配置中⼼
 # 链路追踪
 
